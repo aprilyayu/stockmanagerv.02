@@ -1,0 +1,1 @@
+# stockmanagerv.02
